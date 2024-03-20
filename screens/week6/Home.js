@@ -17,6 +17,7 @@ export default function Home() {
                 <Event style={{ margin: 20 }} />
             </View>
             <View></View>
+            <View></View>
         </ScrollView>
     );
 }
